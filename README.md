@@ -1,5 +1,3 @@
-# serial_ports
-
 Windows DLL for listing available serial (COM) ports.  
 
 Provides two C functions:  
